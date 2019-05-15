@@ -29,7 +29,7 @@ Note that consumer also queries OPA for policy decision on the received message.
     docker-compose down
 
 
-Para usar no kafka connector:
+For kafka-connector:
    
     bootstrap.servers=kafka.example.com:9093
     security.protocol=SSL
